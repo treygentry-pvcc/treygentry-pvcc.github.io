@@ -1,0 +1,33 @@
+
+body{background-image:url(spaceman.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #ffe5b4;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{}
+h2{}
+h3{}
+
+table{ border:10px solid;
+    width: 400px; 
+    background-color: aqua;
+    color:blue;
+    margin:auto;
+
+}
+td{}
+ul{}
+ol{}
+li{color:#9400d3;}
+a{text-decoration: none;
+font-weight: bold;}
+a:link{color:#ff0000}
+a:visited{color:#0000ff}
+a:hover{color:#275f3a}
+a:active{color:#0066f2}
+img{width:70%;
+    display: block;
+    margin: auto;
+    align-self: center;}
+.starwars{ background-color:#138b00;}
