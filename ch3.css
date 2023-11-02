@@ -1,0 +1,26 @@
+a:link{color:#ff0000}
+a:visited{color:#0000ff}
+a:hover{color:#275f3a}
+a:active{color:#0066f2}
+.starwars{ background-color:#300a20;}
+.pretty{margin-left: auto ;
+margin-right: auto;
+border:#0000ff 1px solid;
+background-color: rgb(31, 171, 171);}
+.moonlight{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: 0%;
+    border: #000000 1px solid;
+    background-color: #6844d4;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+color: #ffffff; }
+.moonlight  th{text-align: center;
+    border:#000000 1px solid ;}
+.moonlight tr td{ border:#000000 1px solid;
+    text-align: center;}
+body{background-image: url(cat.jpg);} 
